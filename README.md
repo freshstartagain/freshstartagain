@@ -4,7 +4,7 @@
 
 Hi! My name is Lester and I am a software and data engineer with a diverse background in different industries.
 
-Get to know me better by visiting my [portfolio page](https://freshstartagain.github.io/portfolio/).
+Get to know me better by visiting my [page](https://freshstartagain.github.io/portfolio/).
 
 
 ## Tools
