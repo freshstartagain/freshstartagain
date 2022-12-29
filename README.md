@@ -34,6 +34,6 @@ Get to know me better by visiting my [portfolio page](https://freshstartagain.gi
 
 ## Stats
 
-![](https://github-readme-stats.vercel.app/api?username=freshstartagain&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=freshstartagain&theme=dracula&hide_border=false&show_icons=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=freshstartagain&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=freshstartagain&theme=dracula&hide_border=false&show_icons=true)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=freshstartagain&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true)
