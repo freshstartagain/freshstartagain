@@ -21,7 +21,7 @@ Get to know me better by visiting my [page](https://freshstartagain.github.io/po
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;&nbsp;
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;&nbsp;
 
-#### DevOps
+#### Devops
 ![github-actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)&nbsp;&nbsp;
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
@@ -30,8 +30,7 @@ Get to know me better by visiting my [page](https://freshstartagain.github.io/po
 ![microsoft-azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;&nbsp;
 ![linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white)
 
-
-### Documentation and Project Management
+#### Documentation and Project Management
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
